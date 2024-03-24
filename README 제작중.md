@@ -34,7 +34,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
-![2421314123](https://github.com/sms3072/wep_atens/blob/main/2421314123.png)
+![2421314123](https://github.com/sms3072/wep_atens/blob/main/images/2421314123.PNG)
 
 ![화면 캡처 2024-03-10 224801](https://github.com/sms3072/wep_atens/assets/105213811/c9df239b-924e-459a-89ff-392d19c90477.PNG)
 
